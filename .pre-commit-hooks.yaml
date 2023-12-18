@@ -1,0 +1,7 @@
+- id: polars-upgrade-conda
+  name: polars-upgrade-conda
+  description: Automatically upgrade Polars syntax for newer versions.
+  entry: polars-upgrade
+  language: conda
+  types_or: [python, pyi]
+  args: []
