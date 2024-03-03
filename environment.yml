@@ -2,4 +2,4 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
-  - polars-upgrade=0.1.19
+  - polars-upgrade=0.2.4
